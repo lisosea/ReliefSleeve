@@ -13,10 +13,10 @@ This Arduino project implements an automated and manual vibration sleeve using a
 - User-configurable threshold for automatic activation. 
 - Manual vibration activation through an LED On/Off switch.
 
-## Components Used for Prototype
+## Electrical Components Used for Prototype
 
 - Arduino Nano
-- MPU6050 accelerometer and gyroscope sensor
+- MPU6050 (6-Axis accelerometer and gyroscope sensor)
 - Vibration motors
 - Other necessary electronic components (resistors, BJT transistor, etc.) 
 - Power source (battery or external power supply)
