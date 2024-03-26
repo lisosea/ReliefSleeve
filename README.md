@@ -1,4 +1,4 @@
-# ReliefSleeve
+# Relief Sleeve
 The following repository is a detailed description of a prototype submitted to CCNY's BMES 2024 BioDesign Hackathon.
 
 **Group Members**: Anirudha Das, Santiago Osario, Kenneth Wong, Maximus Czernisz, Nicholas Celanti, Lis Osea Colmenares, Ethan Shamayev
