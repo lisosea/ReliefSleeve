@@ -23,6 +23,8 @@ This Arduino project implements an automated and manual vibration sleeve using a
 ## Installation and Setup
 
 1. **Clone Repository**: Clone this repository to your local machine:
+2. [12C Device Library](https://github.com/jrowberg/i2cdevlib)
+3. [MPU6050 Device Library](https://github.com/ElectronicCats/mpu6050)
 
 ## Supporting Documentation
 
