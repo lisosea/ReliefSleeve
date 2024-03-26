@@ -18,7 +18,7 @@ This Arduino project implements an automated and manual vibration sleeve using a
 - Arduino Nano
 - MPU6050 accelerometer and gyroscope sensor
 - Vibration motors
-- Other necessary electronic components (resistors, capacitors, etc.)
+- Other necessary electronic components (resistors, BJT transistor, etc.) 
 - Power source (battery or external power supply)
 - LED Switches
 
