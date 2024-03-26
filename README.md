@@ -1,6 +1,8 @@
 # ReliefSleeve
 The following repository is a detailed description of a prototype submitted to CCNY's BMES 2024 BioDesign Hackathon.
 
+**Group Members**: Anirudha Das, Santiago Osario, Kenneth Wong, Maximus Czernisz, Nicholas Celanti, Lis Osea Colmenares, Ethan Shamayev
+
 # Automated and Manual Vibration Sleeve
 
 This Arduino project implements an automated and manual vibration sleeve using an MPU6050 accelerometer sensor. The sleeve can detect user jerks or twitches, and based on the threshold set by the user, it activates vibration motors to provide feedback.
