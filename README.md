@@ -25,5 +25,10 @@ This Arduino project implements an automated and manual vibration sleeve using a
 1. **Clone Repository**: Clone this repository to your local machine:
 2. Make sure the circuit board is implemented correctly.
 
+##[See Circuit Diagram](docs/circuit_diagram.pdf)
+
+##[GooglePresentationSlides](https://docs.google.com/presentation/d/1DhR2peD7n7PvTp2O2eWuozLrc5OO4RQZGAaDnlNJnFM/edit#slide=id.p)
+
+
 
 
