@@ -8,8 +8,8 @@ This Arduino project implements an automated and manual vibration sleeve using a
 ## Features
 
 - Automatic vibration activation based on user jerks/twitches detected by the MPU6050 sensor.
-- User-configurable threshold for automatic activation.
-- Manual vibration activation through user input.
+- User-configurable threshold for automatic activation. 
+- Manual vibration activation through an LED On/Off switch.
 
 ## Components Used for Prototype
 
@@ -23,12 +23,13 @@ This Arduino project implements an automated and manual vibration sleeve using a
 ## Installation and Setup
 
 1. **Clone Repository**: Clone this repository to your local machine:
-2. Make sure the circuit board is implemented correctly.
 
-##[See Circuit Diagram](docs/circuit_diagram.pdf)
+## Supporting Documentation
 
-##[GooglePresentationSlides](https://docs.google.com/presentation/d/1DhR2peD7n7PvTp2O2eWuozLrc5OO4RQZGAaDnlNJnFM/edit#slide=id.p)
+**Please Note**: Following TinkerCad was developed using limited components on the Website. The circuit board is not accurate to what was used for the prototype.
+![Copy of Arduino Nano](https://github.com/lisosea/ReliefSleeve/assets/57465857/10c37458-73c5-4f96-a52b-5751171592cd)
 
+1. [Google Presentation Slides](https://docs.google.com/presentation/d/1DhR2peD7n7PvTp2O2eWuozLrc5OO4RQZGAaDnlNJnFM/edit#slide=id.p)
 
 
 
